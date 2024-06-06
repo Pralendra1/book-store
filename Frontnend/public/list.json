@@ -1,82 +1,92 @@
 [
-    {
-    "id":2,
-    "name":"Story book",
-    "Title":"This contains various Stories from mythology to Real Incidnets",
-    "price":0,
-    "category":"Free",
-    "image":"https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740"
-   },
-   {
-    "id":3,
-    "name":"Educational book",
-    "Title":"Best book for students",
-    "price":0,
-    "category":"Free",
-    "image":" https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714044106~exp=1714047706~hmac=be50fd63784b907a99b337d1c7c98e90b10d7be204ff0130c828a7bdcfdc1235&w=740"
-   },
-   {
-    "id":4,
-    "name":"Life of pi",
-    "Title":"This contain details about",
-    "price":500,
-    "category":"Paid",
-    "image":"https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740"
-   },
-   {
-    "id":5,
-    "name":"Panchatantra",
-    "Title":"Enjoy panchtantra stories .Special Edition",
-    "price":0,
-    "category":"Free",
-    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714044106~exp=1714047706~hmac=be50fd63784b907a99b337d1c7c98e90b10d7be204ff0130c828a7bdcfdc1235&w=740"
-   },
-   {
-    "id":6,
-    "name":"Watashi jin ",
-    "Title":"This contain details about",
-    "price":1500,
-    "category":"Paid",
-    "image":"https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740"
-   },
-   {
-    "id":7,
-    "name":"C++ Fundamentals",
-    "Title":"Deep dive into programming",
-    "price":0,
-    "category":"Free",
-    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714044106~exp=1714047706~hmac=be50fd63784b907a99b337d1c7c98e90b10d7be204ff0130c828a7bdcfdc1235&w=740"
-   },
-   {
-    "id":8,
-    "name":"WEB development",
-    "Title":"This contain details about",
-    "price":2000,
-    "category":"Paid",
-    "image":"https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740"
-   },
-   {
-    "id":9,
-    "name":"Story book",
-    "Title":"This contain details about",
-    "price":0,
-    "category":"Free",
-    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714044106~exp=1714047706~hmac=be50fd63784b907a99b337d1c7c98e90b10d7be204ff0130c828a7bdcfdc1235&w=740"
-   },
-   {
-    "id":10,
-    "name":"Story book",
-    "Title":"This contain details about",
-    "price":2500,
-    "category":"Paid",
-    "image":"https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740"
-   },
-   {
-    "id":11,
-    "name":"Story book",
-    "Title":"This contain details about",
-    "price":3000,
-    "category":"Paid",
-    "image":"https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740"
-   }
+  {
+    "id": 2,
+    "name": "Story book",
+    "Title": "This contains various Stories from mythology to Real Incidnets",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740",
+    "pdf": "./pdfs/book1.pdf"
+  },
+  {
+    "id": 3,
+    "name": "Educational book",
+    "Title": "Best book for students",
+    "price": 0,
+    "category": "Free",
+    "image": " https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714044106~exp=1714047706~hmac=be50fd63784b907a99b337d1c7c98e90b10d7be204ff0130c828a7bdcfdc1235&w=740",
+    "pdf": "./pdfs/book2.pdf"
+  },
+  {
+    "id": 4,
+    "name": "Life of pi",
+    "Title": "This contain details about",
+    "price": 500,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740",
+    "pdf": "./pdfs/book3.pdf"
+  },
+  {
+    "id": 5,
+    "name": "Panchatantra",
+    "Title": "Enjoy panchtantra stories .Special Edition",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714044106~exp=1714047706~hmac=be50fd63784b907a99b337d1c7c98e90b10d7be204ff0130c828a7bdcfdc1235&w=740",
+    "pdf": "./pdfs/Resume.pdf"
+  },
+  {
+    "id": 6,
+    "name": "Watashi jin ",
+    "Title": "This contain details about",
+    "price": 1500,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740",
+    "pdf": "./pdfs/Resume.pdf"
+  },
+  {
+    "id": 7,
+    "name": "C++ Fundamentals",
+    "Title": "Deep dive into programming",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714044106~exp=1714047706~hmac=be50fd63784b907a99b337d1c7c98e90b10d7be204ff0130c828a7bdcfdc1235&w=740",
+    "pdf": "./pdfs/Resume.pdf"
+  },
+  {
+    "id": 8,
+    "name": "WEB development",
+    "Title": "This contain details about",
+    "price": 2000,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740",
+    "pdf": "./pdfs/Resume.pdf"
+  },
+  {
+    "id": 9,
+    "name": "Story book",
+    "Title": "This contain details about",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714044106~exp=1714047706~hmac=be50fd63784b907a99b337d1c7c98e90b10d7be204ff0130c828a7bdcfdc1235&w=740",
+    "pdf": "./pdfs/Resume.pdf"
+  },
+  {
+    "id": 10,
+    "name": "Story book",
+    "Title": "This contain details about",
+    "price": 2500,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740",
+    "pdf": "./pdfs/Resume.pdf"
+  },
+  {
+    "id": 11,
+    "name": "Story book",
+    "Title": "This contain details about",
+    "price": 3000,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-photo/bright-ladders-stack-colorful-blank-books-yellow-background_23-2148207674.jpg?t=st=1714339362~exp=1714342962~hmac=6a390c342d067738c907a9bb6d7c5e099a24dcc8dc17fc0ac6b3048eca4af56c&w=740",
+    "pdf": "./pdfs/Resume.pdf"
+  }
 ]
