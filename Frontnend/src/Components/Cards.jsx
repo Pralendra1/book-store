@@ -15,7 +15,7 @@ function Cards({ item }) {
   };
 
   return (
-    <div className="mt-4 mb-4">
+    <div className="card-container mt-4 mb-4">
       <div className="card w-96 bg-base-100 shadow-xl p-4 hover:scale-105 transition-transform duration-300">
         <figure>
           <img src={item.image} alt="Books" />
@@ -33,7 +33,7 @@ function Cards({ item }) {
             <div className="cursor-pointer px-2 py-1 rounded-xl text-white bg-slate-500 badge badge-outline hover:text-pink-600 duration-100">
               Buy Now
             </div>
-            {item.pdf && (
+            {item.pdf && item.category === "Free" && (
               <div
                 className="cursor-pointer px-2 py-1 rounded-xl text-white bg-slate-500 badge badge-outline hover:text-pink-600 duration-100"
                 onClick={downloadFile}
